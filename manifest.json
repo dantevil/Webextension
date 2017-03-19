@@ -1,0 +1,34 @@
+
+{
+
+  "manifest_version": 2,
+  "name": " Media Viewer",
+  "version": "1.0",
+
+  "description": "Be updated with The latest shows and shows which are binge watched !!!",
+   "icons": {
+
+	"48": "media.png"
+	  
+  },
+    "browser_action":{
+
+
+                 
+    "default_popup": "popup.html"   
+
+},
+"background": {
+
+
+"page": "popup.html"
+
+}
+
+
+}
+  
+   
+
+
+ 

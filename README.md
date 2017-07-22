@@ -1,1 +1,1 @@
-# potential-eureka
+# potential-eur
